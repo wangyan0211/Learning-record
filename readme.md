@@ -40,7 +40,7 @@ git branch    查看分支
 
 git branch 分支名称    新建分支
 
-git checkout 分支名称    切换分支 （修改提交后进行切换）
+git switch 分支名称    切换分支 （修改提交后进行切换）
 
 git merge 来源分支名称     进行合并分支  合并时：先切换到主分支添加分支
 
